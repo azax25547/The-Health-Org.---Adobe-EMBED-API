@@ -1,4 +1,3 @@
-
 # A Web App on Consumption of Public Information Measurement and Analysis
 
 This web app made with React shows implementations of the Adobe PDF Embed API to embed PDFs and use them as to view Information for Public Usage.
@@ -35,17 +34,13 @@ To use your credentials kindly replace the client-id with your id for authentica
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-
 ### Build with npm
 
-
-### ```npm install```
+### `npm install`
 
 Install the required packages for the Project.
 
-### ```npm start```
-
-
+### `npm start`
 
 Runs the app in the development mode.
 
@@ -61,22 +56,21 @@ Builds the app for production to the `build` folder.
 
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
-
 ## Below are the endpoints exposed from the application to show different use cases.
 
-| Documents | Endpoint                               |
-| -------------------------- | -------------------------------------- |
-| Fear of COVID-19 Scale     | `http://localhost:3000/survey-one`     |
-| House Hold Pulse Survey    | `http://localhost:3000/survey-two`     |
-| Psychological Stress       | `http://localhost:3000/survey-three`   |
-| Impact on Health Well-Being| `http://localhost:3000/survey-four`    |
-| Impact on Cancer patients and Survivors     | `http://localhost:3000/survey-five`    |
-
-
+| Documents                               | Endpoint                             |
+| --------------------------------------- | ------------------------------------ |
+| Fear of COVID-19 Scale                  | `http://localhost:3000/survey-one`   |
+| House Hold Pulse Survey                 | `http://localhost:3000/survey-two`   |
+| Psychological Stress                    | `http://localhost:3000/survey-three` |
+| Impact on Health Well-Being             | `http://localhost:3000/survey-four`  |
+| Impact on Cancer patients and Survivors | `http://localhost:3000/survey-five`  |
 
 **Demo**
+
 ## The Project
-![REcord IT](http://g.recordit.co/Vd03HN5zmH.gif)
+
+![http://g.recordit.co/RHhFbuh77q.gif](http://g.recordit.co/Vd03HN5zmH.gif)
 
 [Full Video](http://recordit.co/Vd03HN5zmH)
 
@@ -111,5 +105,3 @@ It correctly bundles React in production mode and optimizes the build for the be
 - Follow the Documentation for how to get started [here](https://www.adobe.io/apis/documentcloud/dcsdk/docs.html).
 
 - Online Demo for this API can be found [here](https://documentcloud.adobe.com/view-sdk-demo/index.html#/view/FULL_WINDOW/Bodea%20Brochure.pdf)
-
-
