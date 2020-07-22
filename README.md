@@ -94,7 +94,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 ## Authors
 
-- **Aditya Narayan Mishra** - _Complete Project_ - [azax25547](https://github.com/azax25547)
+- **Aditya Narayan Mishra** - _Complete Project_ - [azax25547](https://github.com/azax25547/The-Health-Org.---Adobe-EMBED-API)
 
 ## Acknowledgments
 
